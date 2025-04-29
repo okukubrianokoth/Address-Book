@@ -30,8 +30,6 @@ Known Bugs There are no known bugs at the moment.
 
 Technologies Used HTML
 
-60dad87deaf433bb8cca1971c771801887ecb079
-
 CSS
 
 JavaScript
