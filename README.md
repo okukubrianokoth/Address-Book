@@ -1,6 +1,6 @@
 Address Book Applicatio: is an application where users can update and manage their details. The app allows users to store and update their personal information, including their name, email, address, and contact details. Users can also include a list of things they prefer to carry out or remember, ensuring they stay organized. We’re located along Ngong Road in Nairobi, Kenya.
 
-Setup/Installation Requirements To set up the Address Book application, follow these instructions below:
+Setup/Installation; Requirements To set up the Address Book application, follow these instructions below:
 Setup/Installation Requirements To set up the Address Book application, follow these instructions;
 
 Ensure that you have Node.js installed.
