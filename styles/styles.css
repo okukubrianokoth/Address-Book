@@ -5,12 +5,12 @@
   }
   body {
     font-family: Arial, sans-serif;
-    background: #f9f9f985;
+    background: #3ed82f85;
     color: #333;
     padding: 20px;
   }
   header {
-    background: #4ca5af;
+    background: #2bd44d;
     color: #fff;
     text-align: center;
     padding: 15px;
@@ -42,7 +42,7 @@
   }
   
   button[type="submit"] {
-    background: #0f3561;
+    background: #2fc77b;
     color: white;
     padding: 10px;
     width: 100%;
@@ -78,7 +78,7 @@
   }
   
   #contact-table th {
-    background: #0b1e5f;
+    background: #22cc63;
     color: white;
   }
   
