@@ -5,12 +5,12 @@
   }
   body {
     font-family: Arial, sans-serif;
-    background: #f9f9f9;
+    background: #f9f9f985;
     color: #333;
     padding: 20px;
   }
   header {
-    background: #4CAF50;
+    background: #4ca5af;
     color: #fff;
     text-align: center;
     padding: 15px;
@@ -22,7 +22,7 @@
     margin: auto;
   }
   #address-form {
-    background: #fff;
+    background: #ffffff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -42,7 +42,7 @@
   }
   
   button[type="submit"] {
-    background: #4CAF50;
+    background: #0f3561;
     color: white;
     padding: 10px;
     width: 100%;
@@ -54,7 +54,7 @@
   }
   
   button[type="submit"]:hover {
-    background: #45a049;
+    background: #174b98;
   }
   
   #contact-table {
@@ -78,7 +78,7 @@
   }
   
   #contact-table th {
-    background: #4CAF50;
+    background: #0b1e5f;
     color: white;
   }
   
@@ -111,7 +111,7 @@ body {
 #todo-form button {
     width: 25%;
     padding: 8px;
-    background-color: #4CAF50;
+    background-color: #2a1377;
     color: white;
     border: none;
     border-radius: 5px;
@@ -184,4 +184,5 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+    background-color: ;
 }
