@@ -36,9 +36,9 @@ JavaScript
 
 Node.js
 
-
-Support and Contact Details For any issues, questions, or concerns, you can reach us through the following contact:
  https://okukuokothbrian.github.io/Address-Book/
+Support and Contact Details For any issues, questions, or concerns, you can reach us through the following contact:
+
 Phone: 0864373464
 
 License All rights reserved.
