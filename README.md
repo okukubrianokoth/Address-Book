@@ -1,47 +1,45 @@
-Address Book Applicatio: is an application where users can update and manage their details. The app allows users to store and update their personal information, including their name, email, address, and contact details. Users can also include a list of things they prefer to carry out or remember, ensuring they stay organized. We’re located along Ngong Road in Nairobi, Kenya.
+# Address Book
 
-Setup/Installation; Requirements To set up the Address Book application, follow these instructions below:
-Setup/Installation Requirements To set up the Address Book application, follow these instructions;
+A simple and interactive web-based Address Book application that allows users to add, view, update, and delete contacts. Built using HTML, CSS, and JavaScript.
 
-Ensure that you have Node.js installed.
+## Demo
 
-Clone the repository:
+Check out the live demo here:  
+[https://okukubrianokoth.github.io/Address-Book/](https://okukubrianokoth.github.io/Address-Book/)
 
-HEAD bash Copy Edit git clone <repository_url> Navigate to the project folder:
+## Features
 
-bash Copy Edit cd <project_folder> Install dependencies by running:
+- Add new contacts with details like name, phone number, email, and address.
+- View all saved contacts in a clean list.
+- Edit existing contact details.
+- Delete contacts you no longer need.
+- Data persistence using browser localStorage.
 
-nginx Copy Edit npm install Start the server:
+## Technologies Used
 
-nginx Copy Edit node app.js Visit http://localhost:3000 in your browser to access the application.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+Open the project
+Open the `index.html` file in your preferred web browser.
 
-Known Bugs There are no known bugs at the moment.
+Usage
+1. Use the form to add a new contact by filling out the details.
+2. View the contact list below the form.
+3. Use the "Edit" button next to a contact to update its information.
+4. Use the "Delete" button to remove a contact.
 
-Technologies Used HTML
-bash Copy Edit git clone <repository_url> Navigate to the project folder:
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-bash Copy Edit cd <project_folder> Install dependencies by running:
+Author
+Okuku Brian Okoth
+GitHub: https://github.com/okukubrianokoth
+Email: okukubrian743@gmail.com
 
-nginx Copy Edit npm install Start the server:
+## Getting Started
 
-nginx Copy Edit node app.js Visit http://localhost:3000 in your browser to access the application.
+### Clone the repository
 
-Known Bugs There are no known bugs at the moment.
-
-Technologies Used HTML
-
-CSS
-
-JavaScript
-
-Node.js
-
- https://okukuokothbrian.github.io/Address-Book/
-Support and Contact Details For any issues, questions, or concerns, you can reach us through the following contact:
-
-Phone: 0864373464
-
-License All rights reserved.
-
-Copyright (c) 2025. Address Book Application.
-
+```bash
+git clone https://github.com/okukubrianokoth/Address-Book.git
